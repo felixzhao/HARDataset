@@ -7,7 +7,7 @@ The goal of this project is to classify human activity based on data from the Hu
 ## structure
 The project is structured into three main components: 
 a final report, a notebook for a solution using a deep neural network (DNN), and a notebook for a solution using non-DNN methods. 
-- The final report, "Halter-V1-final-report.ipynb," provides an overview of the project and its results. 
+- The final report, "Halter-V1-final-report.ipynb," provides all the results.
 - "Halter-V1-HAR-DNN.ipynb" includes the DNN solution, 
 - "Halter-V2-HAR-non-DNN.ipynb" includes the non-DNN solution.
 
